@@ -1,4 +1,4 @@
-## Olá! Eu sou Felipe dos Santos 👋 
+## Olá! Eu sou o Felipe dos Santos 👋 
 - Acadêmico de Sistemas de informação pela Universidade Federal do Acre 🎓
 - Aluno do projeto Web Academy 👨‍💻
 - Desenvolvedor web Full Stack em formação 😅
