@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Felipe dos Santos 👋 
 - Acadêmico de Sistemas de informação pela Universidade Federal do Acre 🎓
-- Aluno do projeto Web Academy 👨‍💻
-- Desenvolvedor web Full Stack em formação 😅
+
 
 
 ![Felipe dos Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-dSantos&show_icons=true&theme=tokyonight)
